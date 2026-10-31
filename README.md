@@ -1,0 +1,2 @@
+# Secure-Gate-Pro---Intelligent-Multi-Level-Biometric-Access-Control-And-Intrusion-Prevention-System
+SecureGate Pro is an LPC2148-based biometric security system that provides multi-level authentication using User ID, password, and fingerprint verification. It supports fingerprint enrollment, deletion, password management, EEPROM-based user storage, and motor-controlled door access with UART-based security logging to prevent unauthorized entry.
